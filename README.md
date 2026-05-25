@@ -1,2 +1,2 @@
 # A.R.I.S
-Adaptive Responsive Intelligence System By - @chiraglohar9
+Adaptive Responsive Intelligence System By - @chirag lohar
